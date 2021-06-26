@@ -19,7 +19,7 @@ sed -i 's/luci-theme-bootstrap/luci-theme-argon/g' feeds/luci/collections/luci/M
 git clone https://github.com/garypang13/luci-app-dnsfilter package/community/luci-app-dnsfilter
 #
 # > GoWebDav
-# git clone https://github.com/immortalwrt/openwrt-gowebdav package/community/openwrt-gowebdav
+#git clone https://github.com/immortalwrt/openwrt-gowebdav package/community/openwrt-gowebdav
 #
 # > HelloWorld (vssr)
 git clone https://github.com/jerrykuku/lua-maxminddb package/community/lua-maxminddb
