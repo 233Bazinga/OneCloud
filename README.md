@@ -1,2 +1,1 @@
-## Usage
-[在 Docker 中运行 OpenWrt 做旁路网关](https://github.com/xtoys/xRouter/main/README.md)
+### 转移阵地 https://hub.docker.com/r/xtoys/openwrt
